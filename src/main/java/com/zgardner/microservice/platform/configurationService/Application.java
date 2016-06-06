@@ -1,4 +1,4 @@
-package com.zgardner.configurationService;
+package com.zgardner.microservice.platform.configurationService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
